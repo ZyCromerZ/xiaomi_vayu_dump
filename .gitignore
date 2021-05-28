@@ -1,0 +1,6 @@
+system_ext.img
+boot.img
+system/system/apex/com.android.vndk.current.apex
+system/system/data-app/MiBrowserGlobal/MiBrowserGlobal.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+product/priv-app/Velvet/Velvet.apk
