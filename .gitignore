@@ -1,0 +1,5 @@
+boot.img
+system/system/apex/com.android.vndk.current.apex
+system/system/app/MiuiVideoPlayer/MiuiVideoPlayer.apk
+product/priv-app/Velvet/Velvet.apk
+system_ext/priv-app/Settings/Settings.apk
